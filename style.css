@@ -1,0 +1,16 @@
+body {
+	font-family: "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji' ;
+	background: #010b14 ;
+	color: #ccc ;
+}
+
+.center {
+    width: 400px ;
+    height: 400px ;
+    position: fixed;
+    top: 50% ;
+    left: 50% ;
+    margin-top: -200px ;
+    margin-left: -150px ;
+
+}
